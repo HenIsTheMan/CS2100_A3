@@ -1,3 +1,4 @@
 1. 10,12,14 (since m10 + m12 + m14)
 2. 3 (since m3)
 3. 4,5 (since m4 + m5)
+4. 3,5 (since M3 AND M5)
