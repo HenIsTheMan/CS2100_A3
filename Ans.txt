@@ -8,3 +8,6 @@
 8a. State = 5 (since ABC = 101)
 8b. State = 3 (since ABC = 011)
 8c. Sink State(s) = 3 (ABC = 011 ONLY)
+9a. KA = B.C (since JA = B AND C and KA = B AND C)
+9b. TB = A'.C+B'.C (since TB = C AND (A' + B'))
+9c. DC = A.B+C' (since DC = A AND B + C')
