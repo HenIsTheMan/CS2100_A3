@@ -5,3 +5,6 @@
 5. 0,5,10,15 (since m0 + m5 + m10 + m15)
 6. A'.B+A'.C.D'+B.C.D' (since A' AND B + A' AND C AND D' + B AND C AND D')
 7. AND gate (since P AND Q)
+8a. State = 5 (since ABC = 101)
+8b. State = 3 (since ABC = 011)
+8c. Sink State(s) = 3 (ABC = 011 ONLY)
